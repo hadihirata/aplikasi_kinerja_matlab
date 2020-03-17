@@ -1,0 +1,6 @@
+function [con,table,kolom] = koneksi()
+url = 'jdbc:mysql://localhost:3306/';
+table='kinerja_db';
+kolom = {'kd', 'Nama_Karyawan', 'Jabatan','HK','KK',};
+con = database('matlab_db', 'root', '', 'com.mysql.jdbc.Driver', url);
+end

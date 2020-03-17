@@ -1,0 +1,31 @@
+cara instal matlab 2010a
+++++++++++++++++++++++++
+
+https://files.ipeenk.com/file/UmrBIwp9cbKGO2aDGvQd
+https://download.ipeenk.com/matlab-r2009a-full-version.html
+
+Cara Install:
+1.  Matikan  Koneksi  I nt ernet   &  Ant ivirusnya.
+2.  Extract   f ile  yang  t elah  anda  download menggunakan winrar ,   lalu  bukalah  f older  yang  t elah  anda  Ext ract .  
+3.  Selanjut nya,   jalankan  f ile  I nst aller  yang  bernama  “Set up. exe”.
+4.  Pilih  “I nst all wit hout   using  int ernet ”,   lalu  klik  “Next ”.
+5.  Pilih  “Y es”,   lalu  klik  “Next ”.  
+6.  Pilih  “I   have  t he  f ile  I nst allat ion  Key…. ”,   lalu masukan  “Serial Number”  yang  ada  di  bawah  ini,   lalu  klik  “Next ”
+
+Seri al  Number:
+St andalone  =>  55013­56979­18948­50009­49060
+Network  Version  =>  42149­27753­04517­22198­03397
+
+7.   Klik  “Next ”  2x,   lalu  klik  “I nst all”  dan  t unggulah  sampai  proses  I nst alasi  selesai.
+8.   Jika  sudah  selesai,   buka  sof tware­nya.
+9.   Pilih  “Act ivat e manually wit hout   t he  I nt ernet ”,   lalu  klik  “Next ”.
+10.   Pilih  “Provide  t he  f ull  pat h…. ”,   lalu  klik  “Browse”.
+1 1.   Arahkan  ke  f ile  yang  bernama  “lic_st andalone. dat ”  /   “lic_server . dat ”  yang  t erdapat   di  direkt ori  Folder  “JAMU”,   lalu  klik  “Next ”.
+Not e:
+Jika  anda menggunakan  “Serial Number”  St andalone,  maka  gunakan  f ile  “JAMU”  “lic_st andalone. dat ”,   begit u  juga  sebaliknya.
+12.   Selesai  ^_^
+
+https://www.bagitekno.net/windows/cara-install-dan-aktivasi-matlab-r2015a.html
+
+++++++++++++++++++
+
